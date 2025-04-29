@@ -1,0 +1,10 @@
+body{
+    background-image: url(tungurahua.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+   
+}
+p1{
+    height: 50%;
+    border: 1px solid blue;
+}
